@@ -17,16 +17,23 @@ I’m interested in anything related to research and Data Science in general. So
 * Molecular biology; 
 * Genomics and transcriptomics;
 
-I am currently learning and building a Data Science portfolio.
+I am currently learning and building a Data Science portfolio. You can check it [here](https://github.com/cfantecelle/data_science_portfolio).
 
 ## 💻 What I work with?
 
-Currently, I am working with:
+Currently, I am working with: <br>
+<img src="icons/r.png" height="35px" alt = "R"/> 
+<img src="icons/python.png" height="35px" alt = "Python"/>
 
+I also know: <br>
+<img src="icons/html5.png" height="35px" alt = "HTML5"/> 
+<img src="icons/css3.png" height="35px" alt = "CSS3"/>
 
+I am studying: <br>
+<img src="icons/javascript.png" height="35px" alt = "JavaScript"/> 
+<img src="icons/python.png" height="35px" alt = "Python"/>
 
-
-🌱 Currently, I work mostly in R but I am currently learning some more Python and ocasionally JavaScript too.
+<hr>
 
 <!---
 cfantecelle/cfantecelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
