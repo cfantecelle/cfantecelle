@@ -36,6 +36,11 @@ I am studying: <br>
 <hr>
 
 <!---
+<p align="center"> 
+	<img align="center" alt="Carlos' most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfantecelle&count_private=false&theme=aura&border=false&layout=compact&langs_count=10"/>
+</p> 
+--->
+<!---
 cfantecelle/cfantecelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
