@@ -22,16 +22,23 @@ I am currently learning and building a Data Science portfolio. You can check it 
 ## 💻 What I work with?
 
 Currently, I am working with: <br>
-<img src="icons/r.png" height="35px" alt = "R"/> 
-<img src="icons/python.png" height="35px" alt = "Python"/>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
 I also know: <br>
-<img src="icons/html5.png" height="35px" alt = "HTML5"/> 
-<img src="icons/css3.png" height="35px" alt = "CSS3"/>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 I am studying: <br>
-<img src="icons/javascript.png" height="35px" alt = "JavaScript"/> 
-<img src="icons/python.png" height="35px" alt = "Python"/>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
 <hr>
 
